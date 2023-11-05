@@ -1,3 +1,4 @@
 https://github.com/NJshant/github-final-project
 https://github.com/NJshant/github-final-project/blob/main/LICENSE
 https://github.com/NJshant/github-final-project/blob/main/README.md
+https://github.com/NJshant/github-final-project/blob/main/CODE_OF_CONDUCT.md
